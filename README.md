@@ -1,1 +1,1 @@
-# NPower-Python-Practives
+# NPower-Python-Practices
